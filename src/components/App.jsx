@@ -3,7 +3,7 @@ import { ImageGallery } from './ImageGallery/ImageGallery';
 import { searchImages } from 'LoadImages';
 import { Searchbar } from './Searchbar/Searchbar';
 import { Button } from './Button/Button';
-import { Modal } from './Modal/Modal';
+import Modal from './Modal/Modal';
 import { Loader } from './Loader/Loader';
 
 export const App = () => {
